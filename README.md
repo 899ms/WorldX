@@ -294,6 +294,7 @@ npm run create       # 通过命令行直接生成新世界
 
 ## 感谢
 -  [LinuxDO](https://linux.do/)
+-  [AtomGit](https://atomgit.com/)：在国内托管AIRI，帮助中国大陆用户更快访问项目与下载Release
 
 ## License
 MIT
